@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your-dockerhub-username/node-mongo-app:latest
+        tags: mukul0412/node-mongo-app:latest
